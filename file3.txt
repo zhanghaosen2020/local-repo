@@ -1,0 +1,3 @@
+this is file3 没想到吧，git diff
+heheh 
+ahhaah
